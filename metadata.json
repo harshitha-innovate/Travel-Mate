@@ -1,0 +1,6 @@
+{
+  "name": "TravelMate AI",
+  "description": "Plan Smarter. Travel Better. Your intelligent AI Travel Agent, Trip Planner, Expense Tracker, and Itinerary Companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
